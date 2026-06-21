@@ -1,0 +1,9 @@
+{
+  "title": "Minha Webnovel",
+  "description": "Uma história sobre mundos e kaijus",
+  "cover": "cover.jpg",
+  "chapters": [
+    "001",
+    "002"
+  ]
+}
